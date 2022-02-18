@@ -1,0 +1,4 @@
+name: JoinMessgae
+version: '${version}'
+main: net.aoissx.mc.plugin.joinmessgae.JoinMessgae
+api-version: 1.18
